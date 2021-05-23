@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="jlfgr-1_0">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../Libraries/jlfgr-1_0.jar!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Libraries/jlfgr-1_0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../Libraries/jlfgr-1_0.jar!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="jar://$PROJECT_DIR$/../../../Libraries/jlfgr-1_0.jar!/" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Libraries/jlfgr-1_0.jar!/" />
+    </SOURCES>
+    <jarDirectory url="jar://$PROJECT_DIR$/../../../Libraries/jlfgr-1_0.jar!/" recursive="false" />
+    <jarDirectory url="jar://$PROJECT_DIR$/../../../Libraries/jlfgr-1_0.jar!/" recursive="false" type="SOURCES" />
+  </library>
+</component>
